@@ -1,0 +1,110 @@
+{
+  "_comment": "Schema for cdmp-tracker.json — copy to your vault and initialize with zeros",
+  "meta": {
+    "last_updated": "YYYY-MM-DD",
+    "target_score": 70,
+    "exam_deadline": "YYYY-MM-DD",
+    "baseline_score": 0,
+    "total_questions_attempted": 0
+  },
+  "domains": {
+    "Data Governance": {
+      "weight": 11,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Quality": {
+      "weight": 11,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Modelling & Design": {
+      "weight": 11,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Metadata Management": {
+      "weight": 11,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Master & Reference Data": {
+      "weight": 10,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Warehousing & BI": {
+      "weight": 10,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Integration & Interoperability": {
+      "weight": 6,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Document & Content Management": {
+      "weight": 6,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Architecture": {
+      "weight": 6,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Security": {
+      "weight": 6,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Data Storage & Operations": {
+      "weight": 6,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    },
+    "Big Data & Data Science": {
+      "weight": 6,
+      "attempted": 0,
+      "correct": 0,
+      "score_pct": null,
+      "wrong_ids": [],
+      "notes": ""
+    }
+  },
+  "concept_stats": {},
+  "report_history": []
+}

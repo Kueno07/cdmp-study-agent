@@ -1,0 +1,4 @@
+{
+  "_comment": "Schema for cdmp-ledger.json — tracks used question IDs to avoid repetition. Copy to your vault.",
+  "used_ids": []
+}

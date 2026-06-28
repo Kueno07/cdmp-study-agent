@@ -1,0 +1,21 @@
+# Vault data — never commit (personal performance data)
+vault/
+cdmp-history.json
+cdmp-tracker.json
+cdmp-ledger.json
+cdmp-weak-concepts.json
+cdmp-questions.json
+cdmp-last-session.txt
+cdmp-history.*
+cdmp-tracker.*
+cdmp-ledger.*
+cdmp-weak-concepts.*
+cdmp-last-session.*
+cdmp-questions.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Smart env (Obsidian)
+.smart-env/

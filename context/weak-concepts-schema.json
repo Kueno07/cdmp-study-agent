@@ -1,0 +1,6 @@
+{
+  "_comment": "Schema for cdmp-weak-concepts.json — pre-computed gaps. Copy to your vault.",
+  "last_updated": "YYYY-MM-DD",
+  "recurring_gaps": [],
+  "concepts": {}
+}
